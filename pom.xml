@@ -30,11 +30,6 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!--		<dependency>-->
-        <!--			<groupId>org.springframework.boot</groupId>-->
-        <!--			<artifactId>spring-boot-starter-webflux</artifactId>-->
-        <!--		</dependency>-->
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -58,13 +53,6 @@
             <version>1.16.16</version>
             <scope>provided</scope>
         </dependency>
-
-        <!--		<dependency>-->
-        <!--			<groupId>io.github.swagger2markup</groupId>-->
-        <!--			<artifactId>swagger2markup</artifactId>-->
-        <!--			<version>1.3.1</version>-->
-        <!--		</dependency>-->
-
     </dependencies>
 
     <build>
